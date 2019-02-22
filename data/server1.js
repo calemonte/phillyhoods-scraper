@@ -69,7 +69,7 @@ let scrape = async () => {
         }); 
 
         extractedTocData.push({
-            id: links[i],
+            report: links[i],
             tocs,
         });
     }
