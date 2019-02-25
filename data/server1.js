@@ -1,6 +1,7 @@
 'use strict';
 
 const puppeteer = require('puppeteer');
+const http = require('http');
 const fs = require('fs');
 
 const URL = 'http://sceti.library.upenn.edu/Philaneighborhoods/browse.cfm#';
@@ -42,6 +43,7 @@ let scrape = async () => {
             imageStart,
         });
     }
+    console.log('Parsing ids and creating links done!');
 
     // Print these out to a file for safe keeping.
     // fs.writeFile('./outputs/all-links.json', JSON.stringify(links, null, 2), (err) => {
@@ -78,6 +80,7 @@ let scrape = async () => {
             tocs,
         });
     }
+    console.log('Extracting table of contents done!');
 
     // Write our TOC to a JSON file.
     // fs.writeFile('./outputs/toc-data2.json', JSON.stringify(dataObj, null, 2), (err) => {
@@ -111,22 +114,61 @@ let scrape = async () => {
 
         // Add our bibliographic data to each object containing our report data.
         dataObj[i].bibliographicData = bibData;
-
     }
+    console.log('Extracting bibliographic data done!');
 
-    fs.writeFile('./outputs/toc-data3.json', JSON.stringify(dataObj, null, 2), (err) => {
+    console.log('Writing all of our data to a file...');
+    fs.writeFile('./outputs/phillyHoodsData.json', JSON.stringify(dataObj, null, 2), (err) => {
         console.log(err);
     });
+    console.log('Writing all of our data to a file done!');
 
     // Navigate to each image page based on the number of pages and save jpegs to places.
+    // For each individual report...
+    console.log("Extracting page images for all reports...");
+    for (let i = 0; i < dataObj.length; i++) {
 
+        // Determine the number of pages to extract...
+        const numPages = dataObj[i].tocs[dataObj[i].tocs.length - 1].pageNumber;
+        let thisPage = 1;
+
+        // Visit each page...
+        while (thisPage <= numPages) {
+
+            let regex = /PagePosition=\d/;
+            let startUrl = dataObj[i].report.imageStart;
+            let thisPageUrl = startUrl.replace(regex, `PagePosition=${thisPage}`);
+
+            // console.log(thisPageUrl);
+            await page.goto(thisPageUrl);
+
+            // Extract the image path for full res file.
+            const fullImagePath = await page.evaluate(() => {
+                let imgSrc = document.querySelector('body > table:nth-child(2) > tbody > tr > td > form > input.zoomcursor').getAttribute('src');
+                return imgSrc;
+            });
+
+            // Create a file, request via http, pipe data into file.
+            const file = await fs.createWriteStream(`./outputs/images/${dataObj[i].report.id}page${thisPage}.jpg`);
+            await http.get(fullImagePath, (response) => { 
+                response.pipe(file);
+            });
+
+            console.log(`${dataObj[i].report.id} page${thisPage} downloaded.`);
+
+            thisPage++;
+        }
+        
+    }
+    
+    console.log("All page image reports have been downloaded!");
     // End our browser session.
     browser.close();
 
-    // Return our object of data.
+    // Return our report data object (Not currently being used in callback).
     return dataObj;
 };
 
 scrape().then((value) => {
-    console.log("Success! All scraped :)"); // Success!
+    console.log("Success! Everything has been scraped :)"); // Success!
 });
