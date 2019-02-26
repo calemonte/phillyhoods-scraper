@@ -12,18 +12,20 @@ let scrape = async () => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    await page.goto(URL);
+    // await page.goto(URL);
+
+    const ids = [4781, 5931, 2608, 5985, 5923, 4783, 4093, 2591, 2720, 4373, 4374, 4375, 4376, 6340, 5926, 5932, 4074, 5934, 4131, 4088, 5986, 6147, 4327, 6301, 5937, 5922, 5928, 2614, 5929, 4331, 4332, 4378, 5938, 4785, 4283, 4368, 5945, 2741, 4334];
 
     // Parse the main browse page and exract all unique IDs for each report (contained in the onclick attributes)
-    const ids = await page.evaluate(() => {
-        let elements = Array.from(document.querySelectorAll('.hioff > a')); // Select all links
-        let valueArray = elements.map(element => {
-            const id = element.getAttribute('onclick').match(/\d{4}/); // Get the ids of each report
-            return id;
-        });
+    // const ids = await page.evaluate(() => {
+    //     let elements = Array.from(document.querySelectorAll('.hioff > a')); // Select all links
+    //     let valueArray = elements.map(element => {
+    //         const id = element.getAttribute('onclick').match(/\d{4}/); // Get the ids of each report
+    //         return id;
+    //     });
 
-        return valueArray; // Return our array of links pointing to the full content.
-    });
+    //     return valueArray; // Return our array of links pointing to the full content.
+    // });
 
     // Generate an array of objects with all of the top-level links to our content (main page, table of contents, bibliographic info, and the image start).
     console.log('Parsing ids and creating links..');
@@ -118,7 +120,7 @@ let scrape = async () => {
     console.log('Extracting bibliographic data done!');
 
     console.log('Writing all of our data to a file...');
-    fs.writeFile('./outputs/phillyHoodsData.json', JSON.stringify(dataObj, null, 2), (err) => {
+    fs.writeFile('./outputs/phillyHoodsDataSecondPage.json', JSON.stringify(dataObj, null, 2), (err) => {
         console.log(err);
     });
     console.log('Writing all of our data to a file done!');
@@ -151,6 +153,7 @@ let scrape = async () => {
           
             })
             .catch(err => console.log(err));
+            // console.log(fullImagePath);
 
             // Create a file, request via http, pipe data into file.
             const file = await fs.createWriteStream(`./outputs/images/${dataObj[i].report.id}page${thisPage}.jpg`);

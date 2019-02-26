@@ -1,0 +1,4364 @@
+[
+  {
+    "report": {
+      "id": "4781",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4781",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4781&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4781",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4781&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Original Cover"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Maps"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Charts"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "A Guide to the Publication"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Chapter 1: Introduction"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: North Philadelphia: Location and Planning Analysis Sections"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Major Features"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map: North Philadelphia Neighborhoods"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Hispanic and Black Populations, 1980"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Chapter 2: District Wide Recommendations"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Map: New Subsidized Housing, 1980-1985"
+      },
+      {
+        "pageNumber": 34,
+        "pageTitle": "Map: Long-Term Residential Vacancy, 1984"
+      },
+      {
+        "pageNumber": 38,
+        "pageTitle": "Map: Owner-Occupied Housing, 1980"
+      },
+      {
+        "pageNumber": 47,
+        "pageTitle": "Map: Cp,,ercoa; and Industrial Development Areas"
+      },
+      {
+        "pageNumber": 49,
+        "pageTitle": "Map: Persons Below Poverty"
+      },
+      {
+        "pageNumber": 51,
+        "pageTitle": "Map: Female-Headed Households with Children Under 18, 1980"
+      },
+      {
+        "pageNumber": 53,
+        "pageTitle": "Map: Unemployment"
+      },
+      {
+        "pageNumber": 69,
+        "pageTitle": "Map: Public Health Centers and Hospitals"
+      },
+      {
+        "pageNumber": 73,
+        "pageTitle": "Map: Recreation Facilities"
+      },
+      {
+        "pageNumber": 75,
+        "pageTitle": "Map: Transportation Facilities"
+      },
+      {
+        "pageNumber": 81,
+        "pageTitle": "Map: Schools and Libraries"
+      },
+      {
+        "pageNumber": 91,
+        "pageTitle": "Map: Police and Fire Dept. Facilities"
+      },
+      {
+        "pageNumber": 93,
+        "pageTitle": "Chapter 3: Community Plans"
+      },
+      {
+        "pageNumber": 95,
+        "pageTitle": "Map: North Philadelphia Physical Development Concept"
+      },
+      {
+        "pageNumber": 97,
+        "pageTitle": "Map: North Philadelphia District Center - Existing Conditions"
+      },
+      {
+        "pageNumber": 99,
+        "pageTitle": "Map: North Philadelphia District Center - Recommendations"
+      },
+      {
+        "pageNumber": 102,
+        "pageTitle": "Map: Fairhill/West Kensington/St. Edward's - Existing Conditions"
+      },
+      {
+        "pageNumber": 103,
+        "pageTitle": "Map: Fairhill/West Kensington/St. Edward's - Recommendations"
+      },
+      {
+        "pageNumber": 106,
+        "pageTitle": "Map: St. Hugh - Existing Conditions"
+      },
+      {
+        "pageNumber": 107,
+        "pageTitle": "Map: St. Hugh - Recommendations"
+      },
+      {
+        "pageNumber": 110,
+        "pageTitle": "Map: Tioga/Nicetown/Hunting Park - Existing Conditions"
+      },
+      {
+        "pageNumber": 111,
+        "pageTitle": "Map: Tioga/Nicetown/Hunting Park - Recommendations"
+      },
+      {
+        "pageNumber": 113,
+        "pageTitle": "Map: North Central Community"
+      },
+      {
+        "pageNumber": 115,
+        "pageTitle": "Map: Broad and Susquehanna Development Area - Existing Conditions"
+      },
+      {
+        "pageNumber": 116,
+        "pageTitle": "Map: Broad and Susquehanna Development Area - Recommendations"
+      },
+      {
+        "pageNumber": 118,
+        "pageTitle": "Map: Cecil B. Moore Avenue Development Area - Existing Conditions"
+      },
+      {
+        "pageNumber": 119,
+        "pageTitle": "Map: Cecil B. Moore Avenue Development Area - Recommendations"
+      },
+      {
+        "pageNumber": 123,
+        "pageTitle": "Map: East of Broad Development Area - Existing Conditions"
+      },
+      {
+        "pageNumber": 124,
+        "pageTitle": "Map: East of Broad Development Area - Recommendations"
+      },
+      {
+        "pageNumber": 127,
+        "pageTitle": "Map: Strawberry Mansion - Existing Conditions"
+      },
+      {
+        "pageNumber": 128,
+        "pageTitle": "Map: Strawberry Mansion - Recommendations"
+      },
+      {
+        "pageNumber": 131,
+        "pageTitle": "Map: Allegheny West - Existing Conditions"
+      },
+      {
+        "pageNumber": 132,
+        "pageTitle": "Map: Allegheny West - Recommendations"
+      },
+      {
+        "pageNumber": 134,
+        "pageTitle": "Map: Francisville/Spring Garden/Fairmount - Existing Conditions"
+      },
+      {
+        "pageNumber": 135,
+        "pageTitle": "Map: Francisville/Spring Garden/Fairmount - Recommendations"
+      },
+      {
+        "pageNumber": 138,
+        "pageTitle": "Map: Poplar/Northern Liberties/Olde Kensington/Kensington South/Ludlow - Existing Conditions"
+      },
+      {
+        "pageNumber": 139,
+        "pageTitle": "Map: Poplar/Northern Liberties/Olde Kensington/Kensington South/Ludlow - Recommendations"
+      },
+      {
+        "pageNumber": 143,
+        "pageTitle": "Chapter 4: The Challenge"
+      }
+    ],
+    "bibliographicData": {
+      "title": "North Philadelphia Plan [1987]",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 177 P5 P5332 1987",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4781-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4781"
+    }
+  },
+  {
+    "report": {
+      "id": "5931",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5931",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5931&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5931",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5931&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Certification"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "The Commission"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Existing Conditions"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Photos: Blighted Conditions"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Objectives"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Housing of Displaced Families"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Public Improvement and Street Changes"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Public Improvements and Street Changes"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Continuing Controls"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Proposed Standards of Development"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map: Land Use Intensity"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Activitiy Intensities"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Illustrative Site Plan"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: Illustrative Site Plan"
+      }
+    ],
+    "bibliographicData": {
+      "title": "North Philadelphia Redevelopment Area Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9100 P494 N67 1968",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5931-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5931"
+    }
+  },
+  {
+    "report": {
+      "id": "2608",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2608",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=2608&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=2608",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2608&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Photo: Plan for apartment house development in a portion of the Triangle Redelopment Area..."
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Foreword"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Map: North Triangle Area"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Map 1: Existing Land Use"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "I. Boundaries and Existing Land Use"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Map 2: Proposed Land Use"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "II. Proposed Land Uses Following Redevelopment"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "III. Proposed Standards of Population Densities, Land Coverage, and Building Intensities"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Table 1: Recommended Maximum Standards"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map 3: Preliminary Site Plan 1"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map 4: Preliminary Site Plan 2"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "IV. Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Table 2: Preliminary Site Plan Data"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map 5: Proposed Zoning Changes"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "V. Proposed Zoning Changes"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Map 6: Proposed Street Layout"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "VI. Proposed Changes in Street Layout"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Map 7: Proposed Transit Lines"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "VII. Prosed Changes in Transit Lines"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "VIII. Rehousing of Displaced Persons"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Map 8: 1949 Assessed Valuation"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Map 9: Redevelopment Areas"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "IX. Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Table 3: Assessed Valuation and Estimated Acquisition Cost of Redevelopment Areas"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "X. Proposed Controls"
+      },
+      {
+        "pageNumber": 36,
+        "pageTitle": "Map 10: Proposed Project Programming"
+      },
+      {
+        "pageNumber": 37,
+        "pageTitle": "Conclusions and Recommendations for Action"
+      }
+    ],
+    "bibliographicData": {
+      "title": "North Triangle redevelopment area plan.",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "English .",
+      "uriRecord": "NA 9127 P4 A27",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2608-record"
+    }
+  },
+  {
+    "report": {
+      "id": "5985",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5985",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5985&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5985",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5985&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Original Cover"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "The Commission"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Summary"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "1. Introduction"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "2. Neighborhood Profile"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "3. Survey of Residents"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "4. Indicators of Displacement"
+      },
+      {
+        "pageNumber": 34,
+        "pageTitle": "5. Conclusions and Recommendations"
+      },
+      {
+        "pageNumber": 40,
+        "pageTitle": "Appendix I: Public Investment in Northern Liberties"
+      },
+      {
+        "pageNumber": 42,
+        "pageTitle": "Appendix II: Neighborhood Sub-Area Profiles"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Northern Liberties, Case Study of",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 177 P5 J378 1982",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5985-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5985"
+    }
+  },
+  {
+    "report": {
+      "id": "5923",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5923",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5923&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5923",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5923&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "List of Illustrations"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Aerial Photo"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "1. Perspective on the Northwest"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Topography"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Building Coverage - 1965"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Population 1950 & 1965"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map: Population - 1985"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: Existing Land Use - 1965"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "2. Development of Objectives"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Map: Aerial Perspective - Northwest District"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "3. The Physical Image"
+      },
+      {
+        "pageNumber": 37,
+        "pageTitle": "Map: District Structure"
+      },
+      {
+        "pageNumber": 39,
+        "pageTitle": "4. The Plan Proposals"
+      },
+      {
+        "pageNumber": 47,
+        "pageTitle": "Map: Northwestern Avenue Bypass, Upper Roxborough"
+      },
+      {
+        "pageNumber": 50,
+        "pageTitle": "Map: Transportation System - 1985"
+      },
+      {
+        "pageNumber": 51,
+        "pageTitle": "Map: The Plan for Transportation"
+      },
+      {
+        "pageNumber": 56,
+        "pageTitle": "Map: Existing Residential Density"
+      },
+      {
+        "pageNumber": 57,
+        "pageTitle": "Map: The Plan for Residential Density"
+      },
+      {
+        "pageNumber": 65,
+        "pageTitle": "Map: The Plan for Commerce and Industry"
+      },
+      {
+        "pageNumber": 73,
+        "pageTitle": "Map; The Plan for Education"
+      },
+      {
+        "pageNumber": 79,
+        "pageTitle": "Map: The Plan for Recreation"
+      },
+      {
+        "pageNumber": 83,
+        "pageTitle": "Map: The Plan for Community Facilities"
+      },
+      {
+        "pageNumber": 85,
+        "pageTitle": "Map: Land Use - 1985"
+      },
+      {
+        "pageNumber": 87,
+        "pageTitle": "5. Community Plans"
+      },
+      {
+        "pageNumber": 91,
+        "pageTitle": "Map: Schuylkill River Communities - Land Use - 1985"
+      },
+      {
+        "pageNumber": 93,
+        "pageTitle": "Map: East Falls - Land Use - 1985"
+      },
+      {
+        "pageNumber": 97,
+        "pageTitle": "Map: Ridge Avenue Communities - Land Use - 1985"
+      },
+      {
+        "pageNumber": 101,
+        "pageTitle": "Map: Germantown High School Area"
+      },
+      {
+        "pageNumber": 102,
+        "pageTitle": "Map: Germantown Avenue Communities - Land Use - 1985"
+      },
+      {
+        "pageNumber": 103,
+        "pageTitle": "Map: Germantown Avenue Communities - Land Use - 1985"
+      },
+      {
+        "pageNumber": 107,
+        "pageTitle": "Map: Stenton and Cheltenham Avenue Communities - Land Use - 1985"
+      },
+      {
+        "pageNumber": 109,
+        "pageTitle": "6. Costs and Strategy"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Northwest Philadelphia District Plan: 1966",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 168 P43 A45 1966",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5923-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5923"
+    }
+  },
+  {
+    "report": {
+      "id": "4783",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4783",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4783&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4783",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4783&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "The Plan for Residential Density"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Map: The Plan for Residential Density"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "The Plan for Transportation"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Surface Transportation"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Map: The Plan for Transportation"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "The Plan for Commerce"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Institutional Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map: The Plan for Land Use - 1985"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Northwest Philadelphia District Plan: 1967",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 168 P43 A452 1967",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4783-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4783"
+    }
+  },
+  {
+    "report": {
+      "id": "4093",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4093",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4093&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4093",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4093&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Front cover--recto"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Front cover--verso"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Title page"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Philadelphia Planning Commission"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Foreword"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Map: Traffic Patterns"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Map:1  Existing Land Use"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Photo: Photograph of Blighted Area"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map 2: Proposed Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Table 1: Exisiting Number of Occupied Dwellings"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Table 2: Assumed Distribution of Dwelling Units"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Table 3: Recommended Standards for Land Coverage"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Table 4: Standards for Development of the Residential Area"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map 3: Existing Zoning"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map 4: Proposed Zoning"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map 5: Existing Traffic Pattern"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map 6: Proposed Traffic Pattern"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Map 7: Proposed Street Changes"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map 8: Proposed Transit Lines"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Map: Assesed Values"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Table 5: Assessed Valuation"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Map 9: Proposed Areas and Programming"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Table 6: Acquisition Cost"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "Rehousing of Displaced Families"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Controls"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "The Plan"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "Map: The Plan"
+      },
+      {
+        "pageNumber": 32,
+        "pageTitle": "Table 7: Analysis of Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "Map: Preliminary Site Plan"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Northwest Temple redevelopment area plan.",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9127 P4 A28",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4093-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4093"
+    }
+  },
+  {
+    "report": {
+      "id": "2591",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2591",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=2591&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=2591",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2591&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "The Commission"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Context"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Land Use"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map: Land Use in 1971"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Land Use in 1976"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Zoning"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Social Character"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Photo: Loft Rehabilitation"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Physical Character"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Photo: Open Space"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Historic Value"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "Architecture"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Photo: Example of Cast Iron"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "Photo: Example of Stone Italianate"
+      },
+      {
+        "pageNumber": 32,
+        "pageTitle": "Photo: Example Picturesque Eclectic"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "Photo: Example of Twentieth Century Revival"
+      },
+      {
+        "pageNumber": 34,
+        "pageTitle": "Photo: Ornamental Details"
+      },
+      {
+        "pageNumber": 35,
+        "pageTitle": "Building Condition"
+      },
+      {
+        "pageNumber": 36,
+        "pageTitle": "Photo: Signage"
+      },
+      {
+        "pageNumber": 37,
+        "pageTitle": "Photo: Signage (continued)"
+      },
+      {
+        "pageNumber": 38,
+        "pageTitle": "Preservation"
+      },
+      {
+        "pageNumber": 41,
+        "pageTitle": "Public Improvements"
+      },
+      {
+        "pageNumber": 42,
+        "pageTitle": "On-Going Studies"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Old City Philadelphia",
+      "creator": "English .",
+      "callNumber": "Albert & Charles Boni (Contributor)",
+      "uriRecord": "HT 168 P43 O4 1979",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2591-record"
+    }
+  },
+  {
+    "report": {
+      "id": "2720",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2720",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=2720&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=2720",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2720&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "List of Figures"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "List of Tables"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "List of Maps"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Acknowledgements"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "I. Report Summary"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "I. Report Summary"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "A. Overview"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map I-1: Old City Planning Area: Study Area"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "B. Major Findings, Problems and Recommendations"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "II. Specific Recommendations"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "A. Residential Alley Improvements"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Map II-1: Old City Planning Area: Public Improvements"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "Table II-1: Alleyway Improvement Costs"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Business District Improvements"
+      },
+      {
+        "pageNumber": 32,
+        "pageTitle": "Table II-2: Business District Improvement Costs"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "C. Neighborhood Commercial Revitalization Area"
+      },
+      {
+        "pageNumber": 34,
+        "pageTitle": "D. Section Eight Housing"
+      },
+      {
+        "pageNumber": 35,
+        "pageTitle": "E. Facade Easements"
+      },
+      {
+        "pageNumber": 36,
+        "pageTitle": "Map II-2: Old City Planning Area: Priority Facade Easement Sites"
+      },
+      {
+        "pageNumber": 37,
+        "pageTitle": "Table II-3: Facade Easement Sites"
+      },
+      {
+        "pageNumber": 38,
+        "pageTitle": "F. Facade Easements combined with the Neighborhood Assistance Act"
+      },
+      {
+        "pageNumber": 38,
+        "pageTitle": "G. Tax Reform Act of 1976"
+      },
+      {
+        "pageNumber": 39,
+        "pageTitle": "H. Modification of Building, Zoning, and Housing Codes"
+      },
+      {
+        "pageNumber": 40,
+        "pageTitle": "I. Development Guidelines"
+      },
+      {
+        "pageNumber": 41,
+        "pageTitle": "J. Development and Marketing Programs"
+      },
+      {
+        "pageNumber": 43,
+        "pageTitle": "K. Equitable Real Estate Assessments"
+      },
+      {
+        "pageNumber": 44,
+        "pageTitle": "L. Transit Improvements"
+      },
+      {
+        "pageNumber": 45,
+        "pageTitle": "M. Traffic Flow Improvements"
+      },
+      {
+        "pageNumber": 46,
+        "pageTitle": "Table II-4: Third and Second Streets Capacity - Vehicles/Hour"
+      },
+      {
+        "pageNumber": 47,
+        "pageTitle": "Map II-3: Old City Planning Area: Existing Street Capacity"
+      },
+      {
+        "pageNumber": 48,
+        "pageTitle": "Map II-4: Old City Planning Area: Proposed Street Capacity"
+      },
+      {
+        "pageNumber": 49,
+        "pageTitle": "N. Parking and Recreation Facilities under the Benjamin Franklin Bridge"
+      },
+      {
+        "pageNumber": 51,
+        "pageTitle": "O. Alternative Parking Garage Sites"
+      },
+      {
+        "pageNumber": 52,
+        "pageTitle": "Table II-5: Existing Parking Capacity"
+      },
+      {
+        "pageNumber": 53,
+        "pageTitle": "Map II-5: Old City Planning Area: Transportation Analysis Blocks"
+      },
+      {
+        "pageNumber": 55,
+        "pageTitle": "Map II-6: Old city Planning Area: Parking Improvements"
+      },
+      {
+        "pageNumber": 56,
+        "pageTitle": "P. Off Street Loading"
+      },
+      {
+        "pageNumber": 57,
+        "pageTitle": "Map II-7: Old City Planning Area: Off-Street Loading Improvements"
+      },
+      {
+        "pageNumber": 58,
+        "pageTitle": "Table II-6: Off-Street Loading Facilities"
+      },
+      {
+        "pageNumber": 59,
+        "pageTitle": "Map II-8: Old City Planning Area: Percent Through Trips"
+      },
+      {
+        "pageNumber": 60,
+        "pageTitle": "III. Funding and Task Relocation"
+      },
+      {
+        "pageNumber": 61,
+        "pageTitle": "A. Overall Program"
+      },
+      {
+        "pageNumber": 62,
+        "pageTitle": "Table III-1: Implementation Program Budget Allocation"
+      },
+      {
+        "pageNumber": 63,
+        "pageTitle": "Table III-1: Implementation Program Budget Allocation (Page 2)"
+      },
+      {
+        "pageNumber": 64,
+        "pageTitle": "Table III-1: Implementation Program Budget Allocation (Page 3)"
+      },
+      {
+        "pageNumber": 65,
+        "pageTitle": "B. Individual Actions"
+      },
+      {
+        "pageNumber": 70,
+        "pageTitle": "Table III-2:  Preliminary Implementation Schedule"
+      },
+      {
+        "pageNumber": 71,
+        "pageTitle": "Table III-2:  Preliminary Implementation Schedule (Page 2)"
+      },
+      {
+        "pageNumber": 72,
+        "pageTitle": "Table III-2:  Preliminary Implementation Schedule (Page 3)"
+      },
+      {
+        "pageNumber": 73,
+        "pageTitle": "Table III-2:  Preliminary Implementation Schedule (Page 4)"
+      },
+      {
+        "pageNumber": 74,
+        "pageTitle": "Table III-2:  Preliminary Implementation Schedule (Page 5)"
+      },
+      {
+        "pageNumber": 75,
+        "pageTitle": "Table III-2:  Preliminary Implementation Schedule (Page 6)"
+      },
+      {
+        "pageNumber": 76,
+        "pageTitle": "IV. Scenario Process"
+      },
+      {
+        "pageNumber": 77,
+        "pageTitle": "A. Introduction"
+      },
+      {
+        "pageNumber": 78,
+        "pageTitle": "Map IV-1: Old City Planning Area: Geographical Sub-Areas"
+      },
+      {
+        "pageNumber": 81,
+        "pageTitle": "B. Scenario I: No Intervention"
+      },
+      {
+        "pageNumber": 82,
+        "pageTitle": "Table IV-1: Profile of Old City: Base Case by Type of Activities"
+      },
+      {
+        "pageNumber": 83,
+        "pageTitle": "Table IV-2: Profile of Old City: Base Case by Geographical Area"
+      },
+      {
+        "pageNumber": 84,
+        "pageTitle": "Table IV-3: Profile of Old City: Scenario 1 by Type of Activities"
+      },
+      {
+        "pageNumber": 85,
+        "pageTitle": "Table IV-4: Profile of Old City: Scenario 1 by Geographical Areas"
+      },
+      {
+        "pageNumber": 89,
+        "pageTitle": "C. Scenario II: Minor Intervention"
+      },
+      {
+        "pageNumber": 90,
+        "pageTitle": "Table IV-5: Profile of Old City: Scenario II by Type of Activities"
+      },
+      {
+        "pageNumber": 91,
+        "pageTitle": "Table IV-6: Profile of Old City: Scenario II by Geographical Areas"
+      },
+      {
+        "pageNumber": 94,
+        "pageTitle": "D. Scenario III: Substantial Intervention"
+      },
+      {
+        "pageNumber": 95,
+        "pageTitle": "Table IV-7: Profile of Old City: Scenario III by Type of Activities"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Old City Study: Part A",
+      "creator": "Venturi and Rauch",
+      "callNumber": "English .",
+      "uriRecord": "Dechert, Price, and Rhoads",
+      "uriFacsimile": "E. L. Crow"
+    }
+  },
+  {
+    "report": {
+      "id": "4373",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4373",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4373&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4373",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4373&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Acknowledgements"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Profiles of Old City"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "A. Geographic Profile"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "B. Physical Profile"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "C. Economic Profile"
+      },
+      {
+        "pageNumber": 55,
+        "pageTitle": "D. Geographic Sectors"
+      },
+      {
+        "pageNumber": 77,
+        "pageTitle": "E. Real Estate Profile"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Old City Study: Part B",
+      "creator": "Venturi and Rauch Architect",
+      "callNumber": "E. L. Crow",
+      "uriRecord": "Vuchic and Dunlay",
+      "uriFacsimile": "HT 177 P5 V45 pt. B"
+    }
+  },
+  {
+    "report": {
+      "id": "4374",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4374",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4374&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4374",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4374&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Acknowledgements"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Problem Identification"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Prospects & Potentials"
+      },
+      {
+        "pageNumber": 62,
+        "pageTitle": "Development Opprotunities"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Old City Study: Part C",
+      "creator": "Venturi and Rauch Architect",
+      "callNumber": "E. L. Crow",
+      "uriRecord": "Vuchic and Dunlay",
+      "uriFacsimile": "HT 177 P5 V45 pt. C"
+    }
+  },
+  {
+    "report": {
+      "id": "4375",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4375",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4375&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4375",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4375&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Acknowledgements"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Rehabilitation Guidelines"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Old City Study: Part D",
+      "creator": "Venturi and Rauch Architect",
+      "callNumber": "E. L. Crow",
+      "uriRecord": "Vuchic and Dunlay",
+      "uriFacsimile": "HT 177 P5 V45 pt. D"
+    }
+  },
+  {
+    "report": {
+      "id": "4376",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4376",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4376&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4376",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4376&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "List of Maps"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "List of Figures"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "List of Tables"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Acknowledgements"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Appendix"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "A. Legal Considerations"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "B. Sample Facade Easement Agreement"
+      },
+      {
+        "pageNumber": 37,
+        "pageTitle": "C. Secretary of the Interior's Standards"
+      },
+      {
+        "pageNumber": 51,
+        "pageTitle": "D. Typical Economic Pro Formas"
+      },
+      {
+        "pageNumber": 62,
+        "pageTitle": "E. Trip Generation Analysis"
+      },
+      {
+        "pageNumber": 67,
+        "pageTitle": "Map: Traffic Generation"
+      },
+      {
+        "pageNumber": 69,
+        "pageTitle": "F. Volumes & Capacities of Streets"
+      },
+      {
+        "pageNumber": 77,
+        "pageTitle": "G. Parking Utilization"
+      },
+      {
+        "pageNumber": 83,
+        "pageTitle": "Map: Car Parking Duration"
+      },
+      {
+        "pageNumber": 84,
+        "pageTitle": "Map: Truck Parking Duration"
+      },
+      {
+        "pageNumber": 89,
+        "pageTitle": "Map: Transportation Analysis Blocks"
+      },
+      {
+        "pageNumber": 92,
+        "pageTitle": "H. General Outline of Repairs to Church St."
+      }
+    ],
+    "bibliographicData": {
+      "title": "Old City Study: Part E",
+      "creator": "Venturi and Rauch Architect",
+      "callNumber": "E. L. Crow",
+      "uriRecord": "Vuchic and Dunlay",
+      "uriFacsimile": "HT 177 P5 V45 pt. E"
+    }
+  },
+  {
+    "report": {
+      "id": "6340",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=6340",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=6340&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=6340",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=6340&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover - recto"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Cover - verso"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Illustration"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Elements of the Plan"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Map 1: Historic Sites, Community Facilities & Positive Factors"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map 2: Existing Land Use"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map 3: Proposed Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map 4: Existing Zoning"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map 5: Proposed Zoning"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map 6: Existing Traffic & Parking"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map 7: Proposed Traffic & Parking"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map 8: Existing & Proposed Transit Lines"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map 9: Proposed Street Changes"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map 10: Assessed Valuations"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Map 11: Assessed Valuations"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Statistical Summary"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map 12: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Map 13: Preliminary Site Plan with Washington Sq. East"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Old City. Plan for the Old City",
+      "creator": "Harbeson, Hough, Livingston and Larson",
+      "callNumber": "NAC 6827 P53 H25",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/6340-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/6340"
+    }
+  },
+  {
+    "report": {
+      "id": "5926",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5926",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5926&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5926",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5926&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "The Commission"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Maps List"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Images List"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Photo: Walt Whitman Bridge"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map: Transportation Network"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Service Transportation Network"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Boundaries"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Proposed Standards"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Table: Area A - Food Distribution Center"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Table: Area B - Residential Development"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Map: Project Areas"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Existing Zoning"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "Map: Existing Zoning"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Proposed Zoning"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Map: Proposed Zoning"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "Transit Lines"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "Proposed Street Changes"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Map: Proposed Streets"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "Rehousing of Displaced Families"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "Estimated Acquisition and Development Cost"
+      },
+      {
+        "pageNumber": 32,
+        "pageTitle": "Proposed Controls"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Pattison Avenue East: Redevelopment Area Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9127 P4 A265 1929",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5926-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5926"
+    }
+  },
+  {
+    "report": {
+      "id": "5932",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5932",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5932&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5932",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5932&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Maps & Images List"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Certification with Amendment"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Map: Boundaries"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Pemberton Redevelopment Area"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Photos: Blighted Conditions"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Maps: Exisiting and Proposed Land Use"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Proposed Street Changes"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Proposed Zoning"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Proposed Standards"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Rehousing of Displaced Families"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Controls"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Pemberton Redevelopment Area",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "CITIES P53-792 Pemberton",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5932-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5932"
+    }
+  },
+  {
+    "report": {
+      "id": "4074",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4074",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4074&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4074",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4074&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Title page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "City Planning Commission"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Model: View of Proposed Penn Center"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "I. Boundaries and Existing Land Uses"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "II. Proposed Land Uses Following Redevelopment"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "III. Proposed Standards of Population, Land and Buildings"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Artist Sketch of sunken pedestrian plaza..."
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "IV. Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map: Proposed Zoning Changes"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "V. Proposed Zoning Changes"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: Proposed Street Layout"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "VI. Proposed Changes in Street Layout"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Cross section of the proposed commercial center"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "VII. Rehousing of Displaced Persons"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "VII. Estimated Cost of Acquisition"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Penn Center",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 177 P47 P44 1952",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4074-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4074"
+    }
+  },
+  {
+    "report": {
+      "id": "5934",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5934",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5934&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5934",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5934&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Maps List"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Certification"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Map: Area Plan Boundary"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Photos: Blighted Conditions"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Boundaries and Existing Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Existing Land Use Plan"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map: Existing Public Uses"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Public Use Plan"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Proposed Land Use Plan"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map: Site Plan"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Proposed Street Changes"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Proposed Zoning Changes"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Rehousing of Displaced Families"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: Property Acquisition"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Proposed Standards"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Controls"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Map: Land Use Intensity"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Pennsport Redevelopment Area Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 177 P47 P4566 1968",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5934-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5934"
+    }
+  },
+  {
+    "report": {
+      "id": "4131",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4131",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4131&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4131",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4131&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Front cover--recto"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Redevelopment Areas: Date Certified"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Redevelopment Areas: Date Published"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Redevelopment Areas: Philadelphia"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Aramingo"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Mill Creek"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Old City"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Passyunk Square"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Southeast Central"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Temple"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Triangle"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "University"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Poplar"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Eastwick"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Lehigh"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Powelton"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Southwest Central"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Fairmount"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Lombard"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "North Central"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Rittenhouse-Germantown"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Pattison Avenue West"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Morton"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Whitman"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Nicetown"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "College Avenue"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Haddington"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Hartranft"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Ontario"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Delaware River Port South"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Port Richmond"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Pratt Street"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Strawberry Mansion"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Center City"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Center City"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "West Philadelphia"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Germantown"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Philadelphia Redevelopment Areas",
+      "creator": "NA 9100 P494 P45 1965x",
+      "callNumber": "http://hdl.library.upenn.edu/1017.4/4131-record",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4131",
+      "uriFacsimile": ""
+    }
+  },
+  {
+    "report": {
+      "id": "4088",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4088",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4088&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4088",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4088&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Front cover--recto"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "City Planning Commission"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Letter from G. Holmes Perkins"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Map: Boundaries"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Photo: Photographs of Blighted Conditions"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Existing Zones"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map: Proposed Zoning"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Port Richmond Redevelopment Area Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 177 P5 P5354 1963",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4088-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4088"
+    }
+  },
+  {
+    "report": {
+      "id": "5986",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5986",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5986&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5986",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5986&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "I. The Roxborough Manayunk Area"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "II. Social Data"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "III. Population Characteristics"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "IV. Housing"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "V. Community Facilities"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "VI. Retail Trade Centers"
+      },
+      {
+        "pageNumber": 36,
+        "pageTitle": "VII. Industry and Industrial Land Use"
+      },
+      {
+        "pageNumber": 40,
+        "pageTitle": "VIII. Transportation"
+      },
+      {
+        "pageNumber": 44,
+        "pageTitle": "IX. Summary of Land Use"
+      },
+      {
+        "pageNumber": 47,
+        "pageTitle": "X. Conclusion"
+      },
+      {
+        "pageNumber": 49,
+        "pageTitle": "Appendix"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Roxborough-Manayunk Area : a Pre-Planning Study.",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 168 P43 P47 1955",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5986-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5986"
+    }
+  },
+  {
+    "report": {
+      "id": "6147",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=6147",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=6147&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=6147",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=6147&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Foreward"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Problem"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Procedure"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Physical Factors"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Map: Land Use"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Map: Substandard Housing"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Map: Vehicular Traffic Flow"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Monthly Dwelling Unit Rentals"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Economic Factors"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Social Organization Membership"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Social Factors"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Non-White Households"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map: Churches and Schools"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: Arrests - 1945"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "trends Affecting the Area"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Plans Affecting the Area"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Conclusions"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Schuylkill Neighborhood : a Neighborhood Study",
+      "creator": "Aaron Levine",
+      "callNumber": "711.0974 P532L",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/6147-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/6147"
+    }
+  },
+  {
+    "report": {
+      "id": "4327",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4327",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4327&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4327",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4327&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Aerial View of Schuylkill River and surroundings"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Photographs of blighted conditions"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Existing Conditions"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Aerial View of Center City from the West"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Objectives"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Aerial View looking North to Art Museum"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Zoning"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Proposed Standards of Development"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Map: Exisitng Zoning"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: Proposed Zoning"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Addition to Fairmount Park"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Map: Existing Movement Pattern"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Proposed Movement Pattern"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Map: Proposed Movement Pattern"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "Proposed Street Changes"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Proposed StreetMap: Changes"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Housing of Displaced Families"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Continuing Controls"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Map: Typical Section of Quay and Pedestrian Terrace"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "Map: Perspective of Site Plan"
+      },
+      {
+        "pageNumber": 34,
+        "pageTitle": "Map: Section Perspective"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Schuylkill River Park",
+      "creator": "Philadelphia City Planning Commission Written by",
+      "callNumber": "English .",
+      "uriRecord": "HT 177 P47 S38 1964",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4327-record"
+    }
+  },
+  {
+    "report": {
+      "id": "6301",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=6301",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=6301&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=6301",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=6301&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Acknowledgements"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Tables"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Maps"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Figures"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "I. The Introduction"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "II. The River Region"
+      },
+      {
+        "pageNumber": 66,
+        "pageTitle": "III. The Study Area"
+      },
+      {
+        "pageNumber": 218,
+        "pageTitle": "IV. The Study Recommendations"
+      },
+      {
+        "pageNumber": 347,
+        "pageTitle": "Appendices"
+      },
+      {
+        "pageNumber": 349,
+        "pageTitle": "A: Regional Recreation/Conservation Areas/Links"
+      },
+      {
+        "pageNumber": 360,
+        "pageTitle": "B: Summary: Existing Conditions"
+      },
+      {
+        "pageNumber": 397,
+        "pageTitle": "C: Resources and Resource Uses"
+      },
+      {
+        "pageNumber": 447,
+        "pageTitle": "E: Local Recreation/Conservation Organizations"
+      },
+      {
+        "pageNumber": 453,
+        "pageTitle": "F: Implementation Tools"
+      },
+      {
+        "pageNumber": 470,
+        "pageTitle": "G: PA Scenic Rivers Designation"
+      },
+      {
+        "pageNumber": 477,
+        "pageTitle": "H: Selected Bibliography"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Schuylkill River Study",
+      "creator": "Pennsylvania Environmental Council, Inc.",
+      "callNumber": "QH 76.5 P4 P45 1979",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/6301-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/6301"
+    }
+  },
+  {
+    "report": {
+      "id": "5937",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5937",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5937&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5937",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5937&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Certification"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Photos of Blighted Conditions"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Existing Land Use and Boundaries"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map: Illustrative Site Plan"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Public Uses"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Public Use Plan"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Major Circulation Routes & Proposed Street Changes"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Illustrative Site Plan"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Housing of Displaced Persons"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Estimated Cost of Acquisition & Site Preparation"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Map: Land Use Intensity"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Continuing Controls and Standards"
+      }
+    ],
+    "bibliographicData": {
+      "title": "South Central Redevelopment Area Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9100 P494 P422 1968",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5937-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5937"
+    }
+  },
+  {
+    "report": {
+      "id": "5922",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5922",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5922&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5922",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5922&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Original Cover"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Summary"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Context"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Existing Conditions"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: Ownership"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Map: Employment 1980"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "Map: Active Port Facilities"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "Map: Capital Investment"
+      },
+      {
+        "pageNumber": 37,
+        "pageTitle": "Map: Circulation"
+      },
+      {
+        "pageNumber": 41,
+        "pageTitle": "Map: Transit"
+      },
+      {
+        "pageNumber": 47,
+        "pageTitle": "Opportunities and Constraints"
+      },
+      {
+        "pageNumber": 51,
+        "pageTitle": "Map: Rail System"
+      },
+      {
+        "pageNumber": 55,
+        "pageTitle": "Map: Environmental Factors"
+      },
+      {
+        "pageNumber": 61,
+        "pageTitle": "Map: Recommendations"
+      },
+      {
+        "pageNumber": 64,
+        "pageTitle": "Map: Packer Avenue Marine Terminal Developments"
+      },
+      {
+        "pageNumber": 65,
+        "pageTitle": "Map: Pier Renovations"
+      },
+      {
+        "pageNumber": 66,
+        "pageTitle": "Map: Packer Avenue Marine Terminal Annex"
+      },
+      {
+        "pageNumber": 69,
+        "pageTitle": "Map: Employee Parking Lot"
+      },
+      {
+        "pageNumber": 71,
+        "pageTitle": "Map: Port Industrial Park - 35 Acres"
+      },
+      {
+        "pageNumber": 72,
+        "pageTitle": "Map: Port Industrial Park - 50 Acres"
+      },
+      {
+        "pageNumber": 74,
+        "pageTitle": "Map: Rail Service to Amstar - Alternatives 1 & 2"
+      },
+      {
+        "pageNumber": 76,
+        "pageTitle": "Map: Proposed Site Plan - Foot of Washington Avenue"
+      },
+      {
+        "pageNumber": 79,
+        "pageTitle": "Glossary"
+      }
+    ],
+    "bibliographicData": {
+      "title": "South Delaware Waterfront District Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9127 P52 A439",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5922-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5922"
+    }
+  },
+  {
+    "report": {
+      "id": "5928",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5928",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5928&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5928",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5928&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "The Commission"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Maps List"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Images List"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Aerial Photo"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Existing Conditions"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Photos: Blighted Areas"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Distribution of Land Uses"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Zoning"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map: Existing Zoning"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Map: Proposed Zoning"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Proposed Standards of Development"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Proposed Street Changes"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Map: Proposed Street Changes"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Housing of Displaced Persons"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "Continuing Controls"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Map: Pattern of Space"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Map: Preliminary Site Plan"
+      }
+    ],
+    "bibliographicData": {
+      "title": "South Triangle Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 177 P47 P44 1963",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5928-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5928"
+    }
+  },
+  {
+    "report": {
+      "id": "2614",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2614",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=2614&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=2614",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2614&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "front cover-recto"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "front cover-verso"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "title page"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Exisiting Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Zoning"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Proposed Street Changes"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "back cover-recto"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "back cover-verso"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Southeast Central 1 Redevelopment Area Plan",
+      "creator": "English .",
+      "callNumber": "Philadelphia City Planning Commission",
+      "uriRecord": "NA 9127 P4 P4565 1959",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2614-record"
+    }
+  },
+  {
+    "report": {
+      "id": "5929",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5929",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5929&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5929",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5929&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "The Commission"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Maps List"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Map: Design Structure of Southwark-Qeen Village"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Pedestrian Way"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Pedestrian Ways"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Institutions and Playgrounds"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Institutions and Playgrounds"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map: Washington Ave to Christian St."
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Commercial"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Commerical"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Housing"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map: New Housing"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "The Edges"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: The Edges"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Traffic and Parking"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Map: Traffic and Parking"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Boundaries and Conditions"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "Map: Existing Land Use & Boundary"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Photos: Blighted Areas"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Map: Existing Zoning"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "Map: Proposed Zoning"
+      },
+      {
+        "pageNumber": 32,
+        "pageTitle": "Zoning"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "Street Changes"
+      },
+      {
+        "pageNumber": 34,
+        "pageTitle": "Map: Street Changes"
+      },
+      {
+        "pageNumber": 35,
+        "pageTitle": "Map: Site Plan"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Southwark-Queen Village",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9127 P4 S6",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5929-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5929"
+    }
+  },
+  {
+    "report": {
+      "id": "4331",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4331",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4331&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4331",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4331&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Proposed Development"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Foreward"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Southwest Temple Area"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Existing Zoning"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Proposed Zoning Changes"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Proposed Street Layout"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Proposed Transit Lines"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "1949 Assessed Valuation"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "Redevelopment Areas"
+      },
+      {
+        "pageNumber": 38,
+        "pageTitle": "Proposed Project Programming"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Southwest Temple",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9127 P4 A285 1950",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4331-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4331"
+    }
+  },
+  {
+    "report": {
+      "id": "4332",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4332",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4332&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4332",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4332&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Introduction & Existing Conditions"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Photographs of Blighted Conditions"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Photographs of Blighted Conditions"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Existing Land Use & Proposed Land Use"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Zoning"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Existing Zoning"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Street Changes"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Proposed Street Changes"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map: Unit Boundaries"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Site Plan"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Estimated Cost of Aquisition & Continuing Controls"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Strawberry Mansion Redevelopment Area Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 177 P5 P5357 1966",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4332-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4332"
+    }
+  },
+  {
+    "report": {
+      "id": "4378",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4378",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4378&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4378",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4378&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Front cover (recto)"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Triangle Redevelopment Area"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Members of the Urban Land Institute Panel"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Table of Contents"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Report and Recommendations"
+      },
+      {
+        "pageNumber": 40,
+        "pageTitle": "Questions and Answers"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Triangle Area Philadelphia, Pennsylvania",
+      "creator": "Urban Land Institute",
+      "callNumber": "HT 168 P43 U73 1951",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4378-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4378"
+    }
+  },
+  {
+    "report": {
+      "id": "5938",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5938",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5938&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5938",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5938&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Maps List"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Images List"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Photo: Aerial View"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Existing Conditions"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Photos: Blighted Conditions"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Objectives"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Drawing: University City Science Center"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Zoning"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Proposed Standards of Development"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Map: Existing Zoning"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Proposed Zoning"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Circulation"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map: Proposed Circulation"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Proposed Street Changes"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map: Proposed Street Changes"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Proposed Site Plan"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Map: Proposed Site Plan"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Housing of Displaced Families"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 24,
+        "pageTitle": "Continuing Controls"
+      }
+    ],
+    "bibliographicData": {
+      "title": "University City Core Plan: 1966",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9100 P494 P435 1966",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5938-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5938"
+    }
+  },
+  {
+    "report": {
+      "id": "4785",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4785",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4785&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4785",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4785&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Foreward"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Map: University Area"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Existing Zoning"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map: Proposed Zoning Changes"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map: Proposed Street Layout"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Map: Proposed Transit Lines"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Map: 1949 Assessed Valuation"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Map: Redevelopment Areas"
+      },
+      {
+        "pageNumber": 37,
+        "pageTitle": "Map: Project Programming"
+      }
+    ],
+    "bibliographicData": {
+      "title": "University Redevelopment Area Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9127 P4 A28 1950",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4785-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4785"
+    }
+  },
+  {
+    "report": {
+      "id": "4283",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4283",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4283&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4283",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4283&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Photo: Aerial View of Center City"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Map: Boundaries"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Photo: Aerial View of Site"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map: Existing Zoning"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map: Proposed Zoning"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Map: Proposed Street Changes"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Map: Preliminary Site Plan"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Washington Square Redevelopment Area Plan",
+      "creator": "NA 9127 P4 P4585 1961",
+      "callNumber": "http://hdl.library.upenn.edu/1017.4/4283-record",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4283",
+      "uriFacsimile": ""
+    }
+  },
+  {
+    "report": {
+      "id": "4368",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4368",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4368&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4368",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4368&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "The Commission"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "List of Illustrations"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Aerial Photo"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Philadelphia's Planning Process"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Perspectives on West Philadelphia"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "District Objectives"
+      },
+      {
+        "pageNumber": 31,
+        "pageTitle": "The Design Concept"
+      },
+      {
+        "pageNumber": 38,
+        "pageTitle": "The West Philadelphia Plan"
+      },
+      {
+        "pageNumber": 84,
+        "pageTitle": "Acknowledgements"
+      }
+    ],
+    "bibliographicData": {
+      "title": "West Philadelphia District Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "HT 177 P5 P536 1964",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/4368-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4368"
+    }
+  },
+  {
+    "report": {
+      "id": "5945",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5945",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=5945&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=5945",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=5945&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Forward"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Map: West Poplar Area"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Map 1: Existing Lan Use"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "I. Boundaries and Existing Land Uses"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Map 2: Proposed Land Use"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "II. Proposed Land Uses"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "III. Proposed Standards of Population Densities, Land Coverage and Building Intensities"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Table: Sizes of Families - 1948"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Table: Recommended Standards for Redevelopment Areas"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "IV. Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map 3 [top]: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Map 3 [bottom]: Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map 4: Existing Zoning"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "V. Proposed Zoning Changes"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Map 5: Proposed Zoning"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Map 6: Proposed Street Layout"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "VI. Proposed Changes in Street Layout"
+      },
+      {
+        "pageNumber": 21,
+        "pageTitle": "Map 7: Proposed Transit Lines"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "VII. Proposed Changes in Transit Lines"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "VIII. Rehousing of Displaced Persons"
+      },
+      {
+        "pageNumber": 23,
+        "pageTitle": "Table: Proposed Number of Persons and Dwelling Units"
+      },
+      {
+        "pageNumber": 25,
+        "pageTitle": "Table: Net Change in Number of Dwelling Units"
+      },
+      {
+        "pageNumber": 26,
+        "pageTitle": "IX. Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 27,
+        "pageTitle": "Map 8: Assessed Valuation"
+      },
+      {
+        "pageNumber": 28,
+        "pageTitle": "Table: Assessed Valuation and Acquisition Cost"
+      },
+      {
+        "pageNumber": 29,
+        "pageTitle": "Map 9: Redevelopment Areas"
+      },
+      {
+        "pageNumber": 30,
+        "pageTitle": "X. Proposed Controls"
+      },
+      {
+        "pageNumber": 33,
+        "pageTitle": "Map 10: Proposed Project Programming"
+      },
+      {
+        "pageNumber": 34,
+        "pageTitle": "Conclusions and Recommendations for Action"
+      }
+    ],
+    "bibliographicData": {
+      "title": "West Poplar Area Redevelopment Plan: 1953",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "NA 9127 P4 A29",
+      "uriRecord": "http://hdl.library.upenn.edu/1017.4/5945-record",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/5945"
+    }
+  },
+  {
+    "report": {
+      "id": "2741",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2741",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=2741&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=2741",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=2741&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "Title Page"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 6,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Boundaries and Existing Conditions"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "12th Street East Side from Harper Street to Girard Avenue"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Warnock Street West Side from Harper Street to Girard Avenue"
+      },
+      {
+        "pageNumber": 8,
+        "pageTitle": "Warnock Street East Side from Harper Street to Girard Avenue"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 10,
+        "pageTitle": "Map: Existing Land Use"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 12,
+        "pageTitle": "Map: Proposed Land Use"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Existing Zoning"
+      },
+      {
+        "pageNumber": 13,
+        "pageTitle": "Proposed Zoning"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Map: Existing Zoning"
+      },
+      {
+        "pageNumber": 15,
+        "pageTitle": "Map: Proposed Zoning"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Rehousing of Displaced Families"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Estimated Cost of Acquisition"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Proposed Standards of Density, Land Coverage and Building Intensity"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Continuing Controls"
+      },
+      {
+        "pageNumber": 17,
+        "pageTitle": "Proposed Street Changes"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Map: Proposed Street Changes"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Distribution of Land Uses"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Preliminary Site Plan"
+      },
+      {
+        "pageNumber": 20,
+        "pageTitle": "Map: Preliminary Site Plan"
+      }
+    ],
+    "bibliographicData": {
+      "title": "West Poplar Redevelopment Area : North Allen Project",
+      "creator": "English .",
+      "callNumber": "Philadelphia City Planning Commission",
+      "uriRecord": "NA 9127 P4 P446 1965",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2741-record"
+    }
+  },
+  {
+    "report": {
+      "id": "4334",
+      "main": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4334",
+      "toc": "http://sceti.library.upenn.edu/pages/popup_jump.cfm?so_id=4334&pageposition=1",
+      "bibInfo": "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4334",
+      "imageStart": "http://sceti.library.upenn.edu/pages/index.cfm?so_id=4334&PagePosition=1&level=1"
+    },
+    "tocs": [
+      {
+        "pageNumber": 1,
+        "pageTitle": "select a section"
+      },
+      {
+        "pageNumber": 1,
+        "pageTitle": "Cover"
+      },
+      {
+        "pageNumber": 2,
+        "pageTitle": "The Planning Commission"
+      },
+      {
+        "pageNumber": 3,
+        "pageTitle": "Letter of Transmittal"
+      },
+      {
+        "pageNumber": 4,
+        "pageTitle": "Contents"
+      },
+      {
+        "pageNumber": 5,
+        "pageTitle": "Introduction"
+      },
+      {
+        "pageNumber": 7,
+        "pageTitle": "Boundaries"
+      },
+      {
+        "pageNumber": 9,
+        "pageTitle": "Photographs of Blighted Areas"
+      },
+      {
+        "pageNumber": 11,
+        "pageTitle": "Existing Land Use"
+      },
+      {
+        "pageNumber": 14,
+        "pageTitle": "Proposed Land Use"
+      },
+      {
+        "pageNumber": 16,
+        "pageTitle": "Preliminsary Site Plan"
+      },
+      {
+        "pageNumber": 18,
+        "pageTitle": "Existing Zoning"
+      },
+      {
+        "pageNumber": 19,
+        "pageTitle": "Proposed Zoning"
+      },
+      {
+        "pageNumber": 22,
+        "pageTitle": "Proposed Street Changes"
+      }
+    ],
+    "bibliographicData": {
+      "title": "Whitman Redevelopment Area Plan",
+      "creator": "Philadelphia City Planning Commission",
+      "callNumber": "English .",
+      "uriRecord": "711.0974 P534.18 Whitman",
+      "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4334-record"
+    }
+  }
+]
