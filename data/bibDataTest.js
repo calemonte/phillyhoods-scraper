@@ -6,10 +6,11 @@ const fs = require("fs");
 
 let scrape = async () => {
   const dataObj = [
-    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4785",
-    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4368",
-    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=2741",
-    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4334"
+    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=6621",
+    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=2606",
+    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4372",
+    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=4376",
+    "http://sceti.library.upenn.edu/pages/biblio-record.cfm?so_id=6347"
   ];
   let newDataObj = {};
 
@@ -33,41 +34,32 @@ let scrape = async () => {
           const title = content[i].innerText;
           data.title = title;
         } else if (text === "Corporate Name" || text === "Coporate Name") {
-          const creator = content[i].innerText;
-          data.creator = creator;
+            const creator = content[i].innerText;
+            data.creator = creator;
+        } else if (text === "Personal Name") {
+            const contributor = content[i].innerText;
+            data.contributor = contributor;
         } else if (text === "Call Number") {
-          const callNumber = content[i].innerText;
-          data.callNumber = callNumber;
+            const callNumber = content[i].innerText;
+            data.callNumber = callNumber;
         } else if (text === "Uniform Resource Identifier for record") {
-          const uriRecord = content[i].innerText;
-          data.uriRecord = uriRecord;
+            const uriRecord = content[i].innerText;
+            data.uriRecord = uriRecord;
         } else if (text === "Uniform Resource Identifier for facsimile") {
-          const uriFacsimile = content[i].innerText;
-          data.uriFacsimile = uriFacsimile;
+            const uriFacsimile = content[i].innerText;
+            data.uriFacsimile = uriFacsimile;
         }
 
         // Deduce the year if it's contained in the Call Number, otherwise just set it to "Unknown".
-        if (data.callNumber && data.callNumber.slice(-4).includes('19')) {
-            data.year = data.callNumber.slice(-4);
+        if (data.callNumber && data.callNumber.slice(-4).includes("19")) {
+          data.year = data.callNumber.slice(-4);
+        } else if (data.title && data.title.slice(-4).includes("19")) {
+            data.year = data.title.slice(-4);
         } else {
-            data.year = "Unknown";
+           data.year = "Unknown";
         }
-
       }
-
-      //   let title = content[0].innerText.trim();
-      //   let creator = content[1].innerText.trim();
-      //   let callNumber = content[2].innerText.trim();
-      //   let uriRecord = content[3].innerText.trim();
-      //   let uriFacsimile = content[4].innerText.trim();
-
-      //   let data = {
-      //     title,
-      //     creator,
-      //     callNumber,
-      //     uriRecord,
-      //     uriFacsimile
-      //   };
+      
       return data;
     });
 

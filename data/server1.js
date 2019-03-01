@@ -90,25 +90,47 @@ let scrape = async () => {
     // Navigate to each of the bibliographic info pages and extract all of the relevant metadata, then write to a file appropriately title folder;
     console.log('Extracting bibliographic data...');
     for (let i = 0; i < dataObj.length; i++) {
-        const url = dataObj[i].report.bibInfo;
-        await page.goto(url);
+      const url = dataObj[i].report.bibInfo;
+      await page.goto(url);
         // Evaluate each page and extract relevant bibliographic data.
-        const bibData = await page.evaluate(() => {
-            let content = document.querySelectorAll('td.DC_content');
+      const bibData = await page.evaluate(() => {
+        const content = document.querySelectorAll("td.DC_content");
 
-            let title = content[0].innerText.trim();
-            let creator = content[1].innerText.trim();
-            let callNumber = content[2].innerText.trim();
-            let uriRecord = content[3].innerText.trim();
-            let uriFacsimile = content[4].innerText.trim();
+        // Loop through the bibliographic record and pluck out the pertinent information.
+        let data = {};
+        for (let i = 0; i < content.length; i++) {
+            const text = content[i].previousSibling.innerText.trim();
 
-            let data = {
-                title,
-                creator,
-                callNumber,
-                uriRecord,
-                uriFacsimile
+            if (text === "Title Statement") {
+              const title = content[i].innerText;
+              data.title = title;
+            } else if (text === "Corporate Name" || text === "Coporate Name") {
+                const creator = content[i].innerText;
+                data.creator = creator;
+            } else if (text === "Personal Name") {
+                const contributor = content[i].innerText;
+                data.contributor = contributor;
+            } else if (text === "Call Number") {
+                const callNumber = content[i].innerText;
+                data.callNumber = callNumber;
+            } else if (text === "Uniform Resource Identifier for record") {
+                const uriRecord = content[i].innerText;
+                data.uriRecord = uriRecord;
+            } else if (text === "Uniform Resource Identifier for facsimile") {
+                const uriFacsimile = content[i].innerText;
+                data.uriFacsimile = uriFacsimile;
             }
+
+            // Deduce the year if it's contained in the Call Number, otherwise just set it to "Unknown".
+            if (data.callNumber && data.callNumber.slice(-4).includes("19")) {
+              data.year = data.callNumber.slice(-4);
+            } else if (data.title && data.title.slice(-4).includes("19")) {
+                data.year = data.title.slice(-4);
+            } else {
+                data.year = "Unknown";
+            }
+        }
+
             return data;
         }); 
 
@@ -118,13 +140,13 @@ let scrape = async () => {
     console.log('Extracting bibliographic data done!');
 
     console.log('Writing all of our data to a file...');
-    fs.writeFile('./outputs/phillyHoodsData.json', JSON.stringify(dataObj, null, 2), (err) => {
+    fs.writeFile('./outputs/phillyHoodsData_Mar1.json', JSON.stringify(dataObj, null, 2), (err) => {
         console.log(err);
     });
     console.log('Writing all of our data to a file done!');
 
-    // Navigate to each image page based on the number of pages and save jpegs to places.
-    // For each individual report...
+    Navigate to each image page based on the number of pages and save jpegs to places.
+    For each individual report...
     console.log("Extracting page images for all reports...");
     for (let i = 0; i < dataObj.length; i++) {
 
