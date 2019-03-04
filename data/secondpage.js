@@ -147,8 +147,8 @@ let scrape = async () => {
     });
     console.log('Writing all of our data to a file done!');
 
-    Navigate to each image page based on the number of pages and save jpegs to places.
-    For each individual report...
+    // Navigate to each image page based on the number of pages and save jpegs to places.
+    // For each individual report...
     console.log("Extracting page images for all reports...");
     for (let i = 0; i < dataObj.length; i++) {
 
