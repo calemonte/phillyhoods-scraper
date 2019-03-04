@@ -97,5 +97,8 @@ let scrape = async () => {
 scrape().then((hoods) => {
 
     console.log(hoods);
+    fs.writeFile('./outputs/neighborhoodData-test.json', JSON.stringify(hoods, null, 2), (err) => {
+        console.log(err);
+    });
     
 });

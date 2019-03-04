@@ -1,0 +1,269 @@
+[
+  {
+    "region": "South Philadelphia",
+    "regionId": "south",
+    "neighborhoods": [
+      "Girard Estates",
+      "Grays Ferry",
+      "Pennsport",
+      "Point Breeze",
+      "Schuylkill",
+      "South",
+      "Wharton"
+    ],
+    "reports": [
+      "5927",
+      "5925",
+      "5926",
+      "5932",
+      "5934",
+      "6147",
+      "5937",
+      "5922",
+      "2614",
+      "4334"
+    ]
+  },
+  {
+    "region": "North Philadelphia",
+    "regionId": "north",
+    "neighborhoods": [
+      "Allegheny West",
+      "Brewerytown",
+      "Fairhill",
+      "Fairmount",
+      "Hartranft",
+      "Hunting Park",
+      "Juniata Park",
+      "Logan",
+      "North Central",
+      "Northern Liberties",
+      "Olde Kensington",
+      "Poplar",
+      "Strawberry Mansion",
+      "Swamp Poodle",
+      "Tioga",
+      "Yorktown"
+    ],
+    "reports": [
+      "5935",
+      "5989",
+      "5921",
+      "6341",
+      "4091",
+      "6344",
+      "6346",
+      "2609",
+      "5931",
+      "4782",
+      "4781",
+      "4093",
+      "4331",
+      "4332",
+      "5945",
+      "2741"
+    ]
+  },
+  {
+    "region": "Southwest Philadelphia",
+    "regionId": "sw",
+    "neighborhoods": [
+      "Eastwick",
+      "Elmwood"
+    ],
+    "reports": [
+      "4377",
+      "2606",
+      "7720",
+      "4784"
+    ]
+  },
+  {
+    "region": "Upper North Philadelphia",
+    "regionId": "unorth",
+    "neighborhoods": [
+      "Olney"
+    ],
+    "reports": [
+      "4130",
+      "2590",
+      "4328",
+      "4372"
+    ]
+  },
+  {
+    "region": "Oak Lane Area",
+    "regionId": "oaklane",
+    "neighborhoods": [
+      "Cedarbrook",
+      "East Oak Lane",
+      "Ogontz",
+      "West Oak Lane"
+    ],
+    "reports": []
+  },
+  {
+    "region": "Northwest Area",
+    "regionId": "nw",
+    "neighborhoods": [
+      "Chestnut Hill",
+      "East Falls",
+      "East Mount Airy",
+      "Germantown",
+      "Manayunk",
+      "Mount Airy",
+      "Roxborough",
+      "West Mount Airy",
+      "Wissahickon"
+    ],
+    "reports": [
+      "2601",
+      "4336",
+      "6347",
+      "5923",
+      "5923",
+      "5986"
+    ]
+  },
+  {
+    "region": "Frankford / Kensington",
+    "regionId": "fk",
+    "neighborhoods": [
+      "Fishtown",
+      "Frankford",
+      "Harrowgate",
+      "Kensington",
+      "Port Richmond",
+      "Richmond",
+      "West Kensington"
+    ],
+    "reports": [
+      "4780",
+      "5930",
+      "4330",
+      "5983",
+      "5985",
+      "4088"
+    ]
+  },
+  {
+    "region": "Lower Northeast",
+    "regionId": "lne",
+    "neighborhoods": [
+      "Bridesburg",
+      "Crescentville",
+      "Feltonville",
+      "Lawndale",
+      "Mayfair",
+      "Wissanoming"
+    ],
+    "reports": []
+  },
+  {
+    "region": "Center City East",
+    "regionId": "cc",
+    "neighborhoods": [
+      "Center City East",
+      "Olde City",
+      "Riverfront",
+      "Society Hill",
+      "Washington Square"
+    ],
+    "reports": [
+      "4371",
+      "2601",
+      "4381",
+      "4094",
+      "6621",
+      "5987",
+      "5984",
+      "4379",
+      "4329",
+      "2592",
+      "4369",
+      "4333",
+      "4089",
+      "5976",
+      "6340",
+      "2720",
+      "4373",
+      "4374",
+      "4375",
+      "4376",
+      "2591",
+      "5929",
+      "4283"
+    ]
+  },
+  {
+    "region": "Center City East",
+    "regionId": "ccw",
+    "neighborhoods": [
+      "Center City West",
+      "Fitler Square",
+      "Rittenhouse Square",
+      "Spring Garden"
+    ],
+    "reports": [
+      "4371",
+      "2601",
+      "4381",
+      "4094",
+      "6621",
+      "5987",
+      "5984",
+      "4073",
+      "4378",
+      "2608",
+      "5928",
+      "4074",
+      "4327"
+    ]
+  },
+  {
+    "region": "West Philadelphia",
+    "regionId": "west",
+    "neighborhoods": [
+      "Belmont",
+      "Cedar Park",
+      "Cobbs Creek",
+      "Haddington",
+      "Kingsessing",
+      "Mill Creek",
+      "Overbrook",
+      "Powelton",
+      "University City",
+      "Wynnefield"
+    ],
+    "reports": [
+      "5933",
+      "5939",
+      "5944",
+      "4072",
+      "5936",
+      "4335",
+      "2586",
+      "4785",
+      "5938",
+      "4368"
+    ]
+  },
+  {
+    "region": "Far Northeast",
+    "regionId": "fne",
+    "neighborhoods": [
+      "Bustleton",
+      "Byberry",
+      "Fox Chase",
+      "Holmesburg",
+      "Oxford Circle",
+      "Pennypack",
+      "Pennypack Park",
+      "Rhawnhurst",
+      "Somerton",
+      "Tacony",
+      "Torresdale"
+    ],
+    "reports": []
+  }
+]
