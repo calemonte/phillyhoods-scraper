@@ -3,6 +3,7 @@
 const puppeteer = require('puppeteer');
 const http = require('http');
 const fs = require('fs');
+const reportData = require('./outputs/phillyHoodsData_Final.json');
 
 const URL = 'http://sceti.library.upenn.edu/Philaneighborhoods/neighborhoods.cfm#';
 
@@ -94,11 +95,23 @@ let scrape = async () => {
     return hoods;
 };
 
+
 scrape().then((hoods) => {
 
-    console.log(hoods);
-    fs.writeFile('./outputs/neighborhoodData-test.json', JSON.stringify(hoods, null, 2), (err) => {
-        console.log(err);
-    });
+    // With all of our extracted neighborhood data, map over the report data and assign a region where there is one.
+    reportData.map(thisReport => {
+
+        for (let w = 0; w < hoods.length; w++) {
+            if (hoods[w].reports.length) {
+              for (let z = 0; z < hoods[w].reports.length; z++) {
+                    if (hoods[w].reports[z] === thisReport.report.id) {
+                        thisReport.bibliographicData.region = hoods[w].region;
+                    }
+                }
+            }
+        }
+        
+    }); 
     
+    console.log(reportData);
 });
