@@ -1,24 +1,43 @@
-const puppeteer = require('puppeteer')
-const screenshot = 'amazon_nyan_cat_pullover.png'
-try {
-  (async () => {
-    const browser = await puppeteer.launch()
-    const page = await browser.newPage()
-    await page.setViewport({ width: 1280, height: 800 })
-    await page.goto('https://www.amazon.com')
-    await page.type('#twotabsearchtextbox', 'nyan cat pullover')
-    await page.click('input.nav-input')
-    await page.waitForSelector('#resultsCol')
-    await page.screenshot({path: 'amazon_nyan_cat_pullovers_list.png'})
-    await page.click('#pagnNextString')
-    await page.waitForSelector('#resultsCol')
-    const pullovers = await page.$$('a.a-link-normal.a-text-normal')
-    await pullovers[2].click()
-    await page.waitForSelector('#ppd')
-    await page.screenshot({path: screenshot})
-    await browser.close()
-    console.log('See screenshot: ' + screenshot)
-  })()
-} catch (err) {
-  console.error(err)
-}
+const puppeteer = require("puppeteer");
+const URL = 'http://sceti.library.upenn.edu/Philaneighborhoods/search.cfm';
+const LIBRARY_HOMEPAGE = 'http://www.library.upenn.edu';
+const date = new Date().getMilliseconds();
+
+// (async () => {
+//   try {
+//     const browser = await puppeteer.launch();
+//     const page = await browser.newPage();
+
+//     await page.goto(URL);
+
+//     await page.click('#keywordDistrict > form > table > tbody > tr:nth-child(3) > td:nth-child(2) > select > option:nth-child(4)');
+//     await page.type('input[type="text"]', "belmont");
+//     await page.click('input[name="Submit"]');
+
+//     await page.waitForNavigation();
+//     await page.screenshot({ path: `searchResults${date}.png` });
+
+//     await browser.close();
+//   } catch (error) {
+//     console.log(error);
+//   }
+// })();
+
+(async () => {
+  try {
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+
+    await page.goto(URL);
+
+    await page.type('#msquery', "belmont");
+    await page.click('#mtsearch > div:nth-child(3) > input');
+
+    await page.waitForNavigation();
+    await page.screenshot({ path: `libraryHomepageSearchResults${date}.png` });
+
+    await browser.close();
+  } catch (error) {
+    console.log(error);
+  }
+})();
