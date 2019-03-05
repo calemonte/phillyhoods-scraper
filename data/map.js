@@ -106,6 +106,7 @@ scrape().then((hoods) => {
               for (let z = 0; z < hoods[w].reports.length; z++) {
                     if (hoods[w].reports[z] === thisReport.report.id) {
                         thisReport.bibliographicData.region = hoods[w].region;
+                        thisReport.bibliographicData.regionNeighborhoods = hoods[w].neighborhoods;
                     }
                 }
             }
@@ -113,5 +114,8 @@ scrape().then((hoods) => {
         
     }); 
     
-    console.log(reportData);
+    fs.writeFile('./outputs/hoodsDataWithRegions.json', JSON.stringify(reportData, null, 2), (err) => {
+        console.log(err);
+    });
+
 });
