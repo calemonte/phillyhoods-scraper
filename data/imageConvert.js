@@ -24,7 +24,7 @@ fs.readdir("./outputs/images", (error, files) => {
       if (shell.which("convert")) {
         shell.exec(`convert ./outputs/images/${reports[j]}page*.jpg ./outputs/pdf/${reports[j]}.pdf`);
       }
-      console.log(`PDFitized ${reports[j]}!`);
+      console.log(`PDFitized ${reports[j]}`);
     }
 
   } catch (error) {
