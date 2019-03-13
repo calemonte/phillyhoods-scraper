@@ -460,7 +460,7 @@
     ],
     "bibliographicData": {
       "title": "Army Piers Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1963",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "CITIES P53-792 Army Piers",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5927-record",
@@ -585,7 +585,7 @@
     ],
     "bibliographicData": {
       "title": "Belmont Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1972",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "CITIES P53-792 Belmont",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5933-record",
@@ -682,7 +682,7 @@
     "bibliographicData": {
       "title": "Broad and Olney Terminal Area Market Study: Final Report",
       "year": "1981",
-      "creator": "E. L. Crow, Inc. (Creator (Architect))",
+      "creator": ["E. L. Crow, Inc. (Creator (Architect))", "Philadelphia City Planning Commission (Contract Party)"],
       "callNumber": "HF 5430.5 P5 E22 1981",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/2590-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2590",
@@ -851,7 +851,7 @@
     ],
     "bibliographicData": {
       "title": "Canal Street Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1970",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "CITIES P53-792 Canal Street",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5930-record",
@@ -1796,7 +1796,7 @@
     ],
     "bibliographicData": {
       "title": "Central Riverfront District Plan",
-      "year": "Unknown",
+      "year": "1982",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "HT 177 P5 P529",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5984-record",
@@ -2042,7 +2042,7 @@
     ],
     "bibliographicData": {
       "title": "Chinatown. Report on Philadelphia's Chinatown Area",
-      "year": "Unknown",
+      "year": "1975",
       "creator": "Gluck and Chadbourne Associates, Inc.",
       "callNumber": "HT 168 P43 R46 1975a",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4379-record",
@@ -2293,7 +2293,7 @@
     ],
     "bibliographicData": {
       "title": "College Avenue Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1960",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NAC 1615 P5 A311",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5935-record",
@@ -2982,7 +2982,7 @@
     ],
     "bibliographicData": {
       "title": "Eastwick Redevelopment Area. Plates. (24 maps)",
-      "year": "Unknown",
+      "year": "1953",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "711.0974 P534C Atlas",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/7720-record",
@@ -3186,7 +3186,7 @@
     ],
     "bibliographicData": {
       "title": "Erie Avenue Industrial District Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1979",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NA 9127 P52 A43",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/6341-record",
@@ -3838,7 +3838,7 @@
     ],
     "bibliographicData": {
       "title": "Hartranft Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1961",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "711.0974 P534.32",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/6344-record",
@@ -3991,7 +3991,8 @@
     ],
     "bibliographicData": {
       "title": "Hunting Park West Development Plan",
-      "year": "Unknown",
+      "year": "1981",
+      "creator": "Stephen Andrade",
       "contributor": "R. Duane Perry",
       "callNumber": "HT 177 P5 A64",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4372-record",
@@ -4416,9 +4417,9 @@
     ],
     "bibliographicData": {
       "title": "Issues for the 1980's",
-      "year": "Unknown",
+      "year": "1979",
       "creator": "Philadelphia City Planning Commission",
-      "callNumber": "Urban Planning - Philadelphia 79-14",
+      "callNumber": "HT165.P4 A4413 1979",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/6620-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/6620"
     }
@@ -4720,7 +4721,7 @@
     ],
     "bibliographicData": {
       "title": "Land Use in Philadelphia, 1944-1954.",
-      "year": "Unknown",
+      "year": "1956",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NA 9127 P4 A255",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4380-record",
@@ -4791,7 +4792,7 @@
     ],
     "bibliographicData": {
       "title": "Lehigh. Redevelopment Areas.",
-      "year": "Unknown",
+      "year": "1951",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "711.0974 P534.18 Lehigh",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/6346-record",
@@ -5571,7 +5572,7 @@
     ],
     "bibliographicData": {
       "title": "Mill Creek Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1954",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NA 9127 P4 A26",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4335-record",
@@ -5683,7 +5684,7 @@
     ],
     "bibliographicData": {
       "title": "Morton Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1958",
       "creator": "Philadelphia City Planning Commission",
       "contributor": "Frank Graham",
       "callNumber": "711.0974 P534.25",
@@ -5780,7 +5781,7 @@
     "bibliographicData": {
       "title": "Mount Olivet: Redevelopment Plan",
       "year": "1962",
-      "creator": "Philadelphia City Planning Commission (Author)",
+      "creator": "Philadelphia City Planning Commission",
       "callNumber": "HT 177 P47 P562 1962",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/2586-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2586",
@@ -6972,7 +6973,7 @@
     ],
     "bibliographicData": {
       "title": "North Triangle redevelopment area plan.",
-      "year": "Unknown",
+      "year": "1950",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NA 9127 P4 A27",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/2608-record",
@@ -7461,7 +7462,7 @@
     ],
     "bibliographicData": {
       "title": "Northwest Temple redevelopment area plan.",
-      "year": "Unknown",
+      "year": "1955",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NA 9127 P4 A28",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4093-record",
@@ -7608,7 +7609,8 @@
     "bibliographicData": {
       "title": "Old City Philadelphia",
       "year": "1979",
-      "creator": "Albert & Charles Boni (Contributor)",
+      "creator": "Philadelphia City Planning Commission",
+      "contributor": "Albert & Charles Boni",
       "callNumber": "HT 168 P43 O4 1979",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/2591-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2591",
@@ -7906,9 +7908,12 @@
     ],
     "bibliographicData": {
       "title": "Old City Study: Part A",
-      "year": "Unknown",
+      "year": "1978",
       "creator": "Venturi and Rauch",
-      "contributor": "Dechert, Price, and Rhoads",
+      "contributor": [
+        "E.L. Crow", 
+        "Vuchic and Dunlay"
+      ],
       "callNumber": "HT 177 P5 V45 pt. A",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/2720-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2720",
@@ -7974,8 +7979,12 @@
     ],
     "bibliographicData": {
       "title": "Old City Study: Part B",
-      "year": "Unknown",
-      "contributor": "E. L. Crow",
+      "year": "1978",
+      "creator": "Venturi and Rauch",
+      "contributor": [
+        "E. L. Crow", 
+        "Vuchic and Dunlay"
+      ],
       "callNumber": "HT 177 P5 V45 pt. B",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4373-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4373",
@@ -8029,8 +8038,12 @@
     ],
     "bibliographicData": {
       "title": "Old City Study: Part C",
-      "year": "Unknown",
-      "contributor": "E. L. Crow",
+      "year": "1978",
+      "creator": "Venturi and Rauch",
+      "contributor": [
+        "E. L. Crow", 
+        "Vuchic and Dunlay"
+      ],
       "callNumber": "HT 177 P5 V45 pt. C",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4374-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4374",
@@ -8076,8 +8089,12 @@
     ],
     "bibliographicData": {
       "title": "Old City Study: Part D",
-      "year": "Unknown",
-      "contributor": "E. L. Crow",
+      "year": "1978",
+      "creator": "Venturi and Rauch",
+      "contributor": [
+        "E. L. Crow", 
+        "Vuchic and Dunlay"
+      ],
       "callNumber": "HT 177 P5 V45 pt. D",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4375-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4375",
@@ -8183,8 +8200,12 @@
     ],
     "bibliographicData": {
       "title": "Old City Study: Part E",
-      "year": "Unknown",
-      "contributor": "E. L. Crow",
+      "year": "1978",
+      "creator": "Venturi and Rauch",
+      "contributor": [
+        "E. L. Crow", 
+        "Vuchic and Dunlay"
+      ],
       "callNumber": "HT 177 P5 V45 pt. E",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4376-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4376",
@@ -8294,7 +8315,7 @@
     ],
     "bibliographicData": {
       "title": "Old City. Plan for the Old City",
-      "year": "Unknown",
+      "year": "1960",
       "creator": "Harbeson, Hough, Livingston and Larson",
       "callNumber": "NAC 6827 P53 H25",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/6340-record",
@@ -8473,7 +8494,7 @@
     ],
     "bibliographicData": {
       "title": "Pattison Avenue East: Redevelopment Area Plan",
-      "year": "1929",
+      "year": "1955",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NA 9127 P4 A265 1929",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5926-record",
@@ -8582,7 +8603,7 @@
     ],
     "bibliographicData": {
       "title": "Pemberton Redevelopment Area",
-      "year": "Unknown",
+      "year": "1967",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "CITIES P53-792 Pemberton",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5932-record",
@@ -9018,7 +9039,7 @@
     ],
     "bibliographicData": {
       "title": "Philadelphia Redevelopment Areas",
-      "year": "Unknown",
+      "year": "1965",
       "callNumber": "NA 9100 P494 P45 1965x",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4131-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/4131"
@@ -9288,7 +9309,7 @@
     ],
     "bibliographicData": {
       "title": "Schuylkill Neighborhood : a Neighborhood Study",
-      "year": "Unknown",
+      "year": "1949",
       "contributor": "Aaron Levine",
       "callNumber": "711.0974 P532L",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/6147-record",
@@ -9795,7 +9816,7 @@
     ],
     "bibliographicData": {
       "title": "South Delaware Waterfront District Plan",
-      "year": "Unknown",
+      "year": "1982",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NA 9127 P52 A439",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5922-record",
@@ -10183,7 +10204,7 @@
     ],
     "bibliographicData": {
       "title": "Southwark-Queen Village",
-      "year": "Unknown",
+      "year": "1964c.",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "NA 9127 P4 S6",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/5929-record",
@@ -11258,7 +11279,7 @@
     ],
     "bibliographicData": {
       "title": "Whitman Redevelopment Area Plan",
-      "year": "Unknown",
+      "year": "1964",
       "creator": "Philadelphia City Planning Commission",
       "callNumber": "711.0974 P534.18 Whitman",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/4334-record",
