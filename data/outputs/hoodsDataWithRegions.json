@@ -682,7 +682,10 @@
     "bibliographicData": {
       "title": "Broad and Olney Terminal Area Market Study: Final Report",
       "year": "1981",
-      "creator": ["E. L. Crow, Inc. (Creator (Architect))", "Philadelphia City Planning Commission (Contract Party)"],
+      "creator": [
+        "E. L. Crow, Inc. (Creator (Architect))", 
+        "Philadelphia City Planning Commission (Contract Party)"
+      ],
       "callNumber": "HF 5430.5 P5 E22 1981",
       "uriRecord": "http://hdl.library.upenn.edu/1017.4/2590-record",
       "uriFacsimile": "http://hdl.library.upenn.edu/1017.4/2590",
