@@ -26,7 +26,7 @@ fs.readdir("./outputs/images", (error, files) => {
         shell.exec(
           `convert -density 300 ./outputs/images/${
             reports[j]
-          }page*.jpg -depth 8 -strip -background white -alpha off ./outputs/ocr/${
+          }page*.jpg -depth 8 -strip -background white -bordercolor White -border 10x10 -alpha off ./outputs/ocr/${
             reports[j]
           }ocr.tiff`
         );
