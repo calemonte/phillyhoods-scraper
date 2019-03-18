@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 images
+jpg
 pdf
 test
 ocr
