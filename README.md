@@ -1,6 +1,6 @@
-# Philly Hoods Scraper
+# Philly Hoods Utilities
 
-This is an unstructured collection of Node utilities built to scrape, convert, and process through OCR jpg assets and metadata from a legacy website. It's not terribly well-organized, but maybe one day it will be. 
+This is an unstructured collection of Node utilities built to scrape, convert, and OCR image assets and metadata from a legacy website. It's not terribly well organized, but maybe one day it will be. 
 
 ## Technologies used
 
